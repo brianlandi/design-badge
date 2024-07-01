@@ -1,0 +1,41 @@
+.design-badge {
+  background-color: #000;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 10px 0 0 10px;
+  height: 30px;
+  padding: 10px;
+  position: fixed;
+  right: 0;
+  top: 20%;
+  width: 30px;
+}
+
+.design-badge a {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+.design-badge--adobe {
+  background-color: #fff;
+  background-image: url(../media/adobe.png);
+  background-size: 66%;
+  border-bottom: 1px solid #000;
+  border-left: 1px solid #000;
+  border-top: 1px solid #000;
+}
+
+.design-badge--figma {
+  background-image: url(../media/figma.jpg);
+}
+
+.design-badge--sketch {
+  background-color: lightgray;
+  background-image: url(../media/sketch.png);
+  background-size: 66%;
+  border-bottom: 1px solid #000;
+  border-left: 1px solid #000;
+  border-top: 1px solid #000;
+}

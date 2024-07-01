@@ -1,0 +1,53 @@
+.custom-bg-color-wrapper {
+  margin-top: 20px;
+}
+
+.custom-image-wrapper {
+  margin-top: 20px;
+}
+
+.custom-image-wrapper img {
+  margin-top: 20px;
+}
+
+#db_image_preview {
+  display: flex;
+  align-items: flex-end;
+}
+
+#db_image_preview img {
+  width: 100px;
+  height: 100px;
+  margin-right: 20px;
+}
+
+.db-meta-box-design-link {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.db-meta-box-display-badge input {
+  margin-left: 5px;
+  margin-right: 0;
+}
+
+.db-meta-box-display-badge-input {
+  margin-top: 5px;
+}
+.db-meta-box-design-link input {
+  margin-top: 5px;
+}
+
+.db-meta-box-design-link label,
+.db-meta-box-display-badge label {
+  padding-right: 10px;
+}
+
+.form-table p.settings-page-label {
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 32px;
+  margin-top: 60px;
+}
